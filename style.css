@@ -1,0 +1,36 @@
+.luci{
+    height: 10%;
+    width: 10%;
+}
+
+header{
+    background-color: rgb(214, 241, 172);
+    border: 2px solid black;
+    background-image: url(relajante.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:center;
+}
+
+main{
+    margin: 1em 3em 1em 3em;
+    color: white;
+    font-weight: bold;
+    
+}
+
+header a {
+    margin-right: 1em;
+    
+    padding: 1em;
+}
+body{
+    background-color: rgb(235, 86, 222);
+}
+a:hover{
+    background-color: rgb(219, 207, 36);
+}
+header{
+    color: white;
+    font-weight: bold;
+}
